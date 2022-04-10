@@ -1,0 +1,1 @@
+require(game:GetService("ServerScriptService").Framework.FlagStandManager):Init(script.Parent)
